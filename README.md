@@ -13,4 +13,4 @@ Deve conter:
 2. Abra o arquivo `index.html` em seu navegador.
 
 ## Imagem do Projeto
-![Youtube][.assets/image/youtube.jfif]
+![Youtube][assets/image/fotoprojeto.jpg]
