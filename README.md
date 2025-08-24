@@ -43,6 +43,6 @@ Reforçar habilidades em CSS Flexbox/Grid.
 👩‍💻 Autor
 
 Projeto desenvolvido por [Rafael Pereira ].
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rpg2011/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)]
 
 🔗 ![Linkedln] www.linkedin.com/in/rpg2011
