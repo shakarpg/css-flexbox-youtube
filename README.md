@@ -11,3 +11,6 @@ Deve conter:
 ## 🚀 Como rodar
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
+
+## Imagem do Projeto
+![Youtube][.assets/image/youtube.jfif]
