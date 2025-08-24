@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+}
+
+/* Menu Superior */
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 16px;
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+}
+.menu .left, .menu .center, .menu .right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.menu .logo {
+    height: 20px;
+}
+.menu .avatar {
+    height: 32px;
+    border-radius: 50%;
+}
+
+/* Conteúdo Principal */
+.content {
+    display: flex;
+    padding: 16px;
+    gap: 24px;
+}
+.video-section {
+    flex: 2;
+}
+.video-section .main-video {
+    width: 100%;
+    height: auto;
+}
+.video-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+.channel {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.channel-avatar {
+    height: 40px;
+    border-radius: 50%;
+}
+.subscribe {
+    background: #cc0000;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+.actions button {
+    margin-left: 8px;
+}
+
+/* Sidebar */
+.sidebar {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.video-suggested {
+    display: flex;
+    gap: 8px;
+}
+.video-suggested img {
+    width: 160px;
+    height: 90px;
+    background: #ddd;
+}
+.video-suggested h3 {
+    margin: 0;
+    font-size: 14px;
+}
+.video-suggested p {
+    margin: 2px 0;
+    font-size: 12px;
+    color: #555;
+}
