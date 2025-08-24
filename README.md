@@ -22,13 +22,13 @@ Acesse a pasta do projeto.
 
 Abra o arquivo index.html diretamente no navegador.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 HTML5 para marcação semântica.
 
 CSS3 para estilização e responsividade.
 
-🎯 Objetivos de Aprendizado
+## 🎯 Objetivos de Aprendizado
 
 Praticar boas práticas de HTML semântico.
 
@@ -36,11 +36,11 @@ Aprender a estruturar layouts mais complexos.
 
 Reforçar habilidades em CSS Flexbox/Grid.
 
-📸 Demonstração
+## 📸 Demonstração
 
 ![Youtube](assets/image/fotoprojeto.jpg)
 
-👩‍💻 Autor
+## 👩‍💻 Autor
 
 Projeto desenvolvido por [Rafael Pereira ].
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)]
